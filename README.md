@@ -3,6 +3,8 @@
 ## 📌 Project Description
 Game Cube 2.0 is a console-based C++ application that combines multiple mini-games into a single platform. It includes a user authentication system and developer tools, while demonstrating core Object-Oriented Programming (OOP) concepts such as inheritance, polymorphism, encapsulation, and abstraction.
 
+Done in collaboration with @codeBIlal-exe
+
 ---
 
 ## 🎯 Features
