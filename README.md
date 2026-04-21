@@ -59,6 +59,14 @@ Done in collaboration with @codeBIlal-exe
 
 ---
 
+## Author
+
+**🔹Muhammad Usman Khan**<br>
+  GitHub: https://github.com/Usman1dev<br>
+  LinkedIn: https://www.linkedin.com/in/usman0310<br>
+**🔹Muhammad Bilal**<br>
+  GitHub:https://github.com/codeBilal-exe
+---
 ## ⚙️ How to Run the Project
 
 ### 🔹 Using Terminal / CMD
