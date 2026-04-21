@@ -65,7 +65,7 @@ Done in collaboration with @codeBIlal-exe
   GitHub: https://github.com/Usman1dev<br>
   LinkedIn: https://www.linkedin.com/in/usman0310<br>
 **🔹Muhammad Bilal**<br>
-  GitHub:https://github.com/codeBilal-exe
+  GitHub: https://github.com/codeBilal-exe
 ---
 ## ⚙️ How to Run the Project
 
