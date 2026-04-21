@@ -59,7 +59,7 @@ Done in collaboration with @codeBIlal-exe
 
 ---
 
-## Author
+## 👨‍💻Author
 
 **🔹Muhammad Usman Khan**<br>
   GitHub: https://github.com/Usman1dev<br>
